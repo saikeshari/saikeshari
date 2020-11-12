@@ -10,7 +10,7 @@
     <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="120" width="120">
 </div>
     <div id="bio">
-    <span id="name">Sai Keshari</span>
+        <span id="name"><strong>Sai Keshari</strong></span>
 <div>
     <ul>
       <li>🔭 I’m currently studying in Delhi Technological University</li>
