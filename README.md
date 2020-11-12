@@ -8,8 +8,8 @@
     <div id="gif1>
     <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="120" width="120">
 </div>
-    <div>
-    <span>Sai Keshari</span>
+    <div id="bio">
+    <span id="name">Sai Keshari</span>
 <div>
     <ul>
       <li>🔭 I’m currently studying in Delhi Technological University</li>
