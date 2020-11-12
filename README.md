@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Sai Keshari
+🔭 I’m currently studying in Delhi Technological University
 
 <!--
 **saikeshari/saikeshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
