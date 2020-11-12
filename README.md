@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="150" width="150">
+</div>
+
 Sai Keshari
 - 🔭 I’m currently studying in Delhi Technological University
 - 🌱 I’m currently learning BackEnd Web Development
