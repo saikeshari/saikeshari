@@ -2,7 +2,7 @@
 
 <div>
     <div style="float: left;">
-    <img src="C:\Users\SAI KESHARI\Desktop\github.gif" height="120" width="120">
+    <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="120" width="120">
 </div>
     <div style="float: left;padding-top: 17px;
     float: left;
