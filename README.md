@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Sai Keshari
-🔭 I’m currently studying in Delhi Technological University
+- 🔭 I’m currently studying in Delhi Technological University
+- 🌱 I’m currently learning BackEnd Web Development
 
 <!--
 **saikeshari/saikeshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
