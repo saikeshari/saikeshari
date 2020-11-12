@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div>
   <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="150" width="150">
 </div>
 
