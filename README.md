@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="150" width="150">
+  <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="100" width="100">
 </div>
 
 Sai Keshari
