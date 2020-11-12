@@ -4,6 +4,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="https://github.com/saikeshari/saikeshari/blob/main/test.css">
     </head>
+    <body>
 <div>
     <div id="gif1">
     <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="120" width="120">
@@ -19,6 +20,7 @@
       </div>
       
   </div>
+  </body>
   </html>
 <!--
 **saikeshari/saikeshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
