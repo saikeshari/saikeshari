@@ -1,4 +1,13 @@
-#gif1
-{
-  height:20px;
+#gif1{
+  float:left;
+}
+#bio{
+  float: left;padding-top: 17px;
+  float: left;
+  padding-left: 19px;
+  font-family: monospace;
+}
+
+#name{
+  font-size: 25px;
 }
