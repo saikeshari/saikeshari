@@ -5,7 +5,7 @@
         <link rel="stylesheet" type="text/css" href="https://github.com/saikeshari/saikeshari/blob/main/test.css">
     </head>
 <div>
-    <div id="gif1>
+    <div id="gif1">
     <img src="https://github.com/saikeshari/saikeshari/blob/main/github.gif" height="120" width="120">
 </div>
     <div id="bio">
