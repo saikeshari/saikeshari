@@ -14,7 +14,6 @@
 <div>
     <ul>
       <li>🔭 I’m currently studying in Delhi Technological University</li>
-      <li>🌱 I’m currently learning BackEnd Web Development</li>
     </ul>
         </div>
       </div>
