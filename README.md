@@ -38,7 +38,8 @@ I am Sai Keshari, currently pursuing my Bachelor's in Technology from [Delhi Tec
 
 ## 📈 Stats
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saikeshari&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeshari&theme=tokyonight" />
+<a href="https://github.com/saikeshari">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikeshari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saikeshari&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
