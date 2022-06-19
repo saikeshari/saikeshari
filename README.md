@@ -1,4 +1,4 @@
-## Hi, I am Sai Keshari! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Sai Keshari! Great to see you here!
 
 I am Sai Keshari, currently pursuing my Bachelor's in Technology from [Delhi Technological University](http://dtu.ac.in). I am a tech enthusiast & MERN stack developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
